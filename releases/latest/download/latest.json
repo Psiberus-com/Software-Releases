@@ -1,13 +1,11 @@
-[
-    {
+{
   "version": "0.1.1",
   "notes": "Updater Test",
   "pub_date": "2025-07-19T19:00:00Z",
   "platforms": {
-    "windows-x86_64": {
+    "windows": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQmJha2pmU1J4T3MvMWUvVTkzYVhVdmI2NVJMbUF6UCtTZFo4S0dKRnJVR1Z0TWxxYmpnRTMvSlpsSXdwaitUZiszTkRCK1VISFhaS0tlZXhsN1lzWk4wNHB5Rkl3VVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTU0MjAzCWZpbGU6cHNpYmVydXMtYWdlbnRfMC4xLjBfeDY0LXNldHVwLmV4ZQpvRnczU3JQVUlVQ2dvSE1ZTVFaUjVXODRvWXRWVHVwNURpY09IZkprVjB5ZnhsYUowbjBjb0JYU0YzNWtPeEl0ZjhrUkFHVHZrbjRDNk9HcDEwWm1CUT09Cg==",
       "url": "https://github.com/Psiberus-com/Software-Releases/raw/refs/heads/main/v0.1.0/windows/psiberus-agent_0.1.0_x64-setup.exe"
     }
   }
 }
-]
