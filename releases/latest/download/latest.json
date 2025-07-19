@@ -8,7 +8,7 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQmJha2pmU1J4T3UrU2tiWTRnRHErTVp4czh3NEJxUEE5WGRkWjZMbGdCcWlRdjJtdnlPQTBER256Vi90blg0OEx4V2ZneFBGSStPRTh4Tmc1Ukc1alFTeDdoNXllYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTUwNDMyCWZpbGU6cHNpYmVydXMtYWdlbnRfMC4xLjBfeDY0LXNldHVwLmV4ZQpQTmJ6MWk4NGdxQnpFYmFQT2xoT05hay9hS3V1QXlFNi9kRCsxS3JlYmdhM3hsMTBDNGQxbDVmeEZPUlFTaS8wNkIyOXNpVVBtWHEyQzVxTEViZ0JBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQmJha2pmU1J4T3MvMWUvVTkzYVhVdmI2NVJMbUF6UCtTZFo4S0dKRnJVR1Z0TWxxYmpnRTMvSlpsSXdwaitUZiszTkRCK1VISFhaS0tlZXhsN1lzWk4wNHB5Rkl3VVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTU0MjAzCWZpbGU6cHNpYmVydXMtYWdlbnRfMC4xLjBfeDY0LXNldHVwLmV4ZQpvRnczU3JQVUlVQ2dvSE1ZTVFaUjVXODRvWXRWVHVwNURpY09IZkprVjB5ZnhsYUowbjBjb0JYU0YzNWtPeEl0ZjhrUkFHVHZrbjRDNk9HcDEwWm1CUT09Cg==",
       "url": "https://github.com/Psiberus-com/Software-Releases/raw/refs/heads/main/v0.1.0/windows/psiberus-agent_0.1.0_x64-setup.exe"
     },
     "darwin-x86_64": {
