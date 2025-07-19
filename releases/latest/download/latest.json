@@ -1,0 +1,19 @@
+{
+  "version": "v0.1.0",
+  "notes": "Updater Test",
+  "pub_date": "",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQmJha2pmU1J4T3UrU2tiWTRnRHErTVp4czh3NEJxUEE5WGRkWjZMbGdCcWlRdjJtdnlPQTBER256Vi90blg0OEx4V2ZneFBGSStPRTh4Tmc1Ukc1alFTeDdoNXllYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyOTUwNDMyCWZpbGU6cHNpYmVydXMtYWdlbnRfMC4xLjBfeDY0LXNldHVwLmV4ZQpQTmJ6MWk4NGdxQnpFYmFQT2xoT05hay9hS3V1QXlFNi9kRCsxS3JlYmdhM3hsMTBDNGQxbDVmeEZPUlFTaS8wNkIyOXNpVVBtWHEyQzVxTEViZ0JBQT09Cg==",
+      "url": "https://github.com/Psiberus-com/Software-Releases/raw/refs/heads/main/v0.1.0/windows/psiberus-agent_0.1.0_x64-setup.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
